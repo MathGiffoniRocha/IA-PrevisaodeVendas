@@ -1,0 +1,19 @@
+# Este projeto foi feito e pensado para ajudar a analisar onde a propaganda de uma empresa mais fazia efeito
+# e assim analisar o quanto deveria ser investido em cada area de sua propaganda para obter resultados positivos.
+
+# Para isso foram feitas IA's que foram treinadas para fazer as analises de vendas, logo a que obtivesse um resultado
+# mais aproximado do real, seria a definitiva.
+
+# O pandas foi usado para analisar a tabela de vendas.
+
+#O seaborn e o matplotlib foram usados para fazer as comnparações entre as diferentes formas de propaganda.
+
+#O scikit-learn foi usado para importar e  treinar as IA's
+
+#As ferramentas usadas foram:
+            # Pandas
+            # scikit-learn
+            # matplotlib
+            # seaborn
+
+#Ele foi produzido e testado no ambiente Jupyter, um opensource para python.
